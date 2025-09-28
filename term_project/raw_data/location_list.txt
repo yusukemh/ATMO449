@@ -1,0 +1,108 @@
+# 9/27/2025 Yusuke Hatanaka manually iterated stations: https://waterdata.usgs.gov/state/Hawaii/#dataTypes=00065
+# KAUAI 18
+Hanalei Riv at Hwy 56 Bridge nr Hanalei, Kauai, HI - USGS-16104200
+Hanalei River nr Hanalei, Kauai, HI - USGS-16103000
+Halaulani Str at alt 400 ft nr Kilauea, Kauai, HI - USGS-16097500
+Ka Loko Reservoir near Kilauea, Kauai, HI - USGS-16094150
+Hanakapiai Stream abv Hanakapiai Falls, Kauai, HI - USGS-16114800
+Wainiha River nr Hanalei, Kauai, HI - USGS-16108000
+Kawaikoi Stream nr Waimea, Kauai, HI - USGS-16010000
+Waimea River US of Kekaha-Waiahulu Int., Kauai, HI - USGS-16016000
+Waialae Str at alt 3820 ft nr Waimea, Kauai, HI - USGS-16019000
+NF Wailua Riv abv N Wailua Ditch Int, Kauai, HI - USGS-16060950
+EB of NF Wailua River nr Lihue, Kauai, HI - USGS-16068000
+Left Branch Opaekaa Str nr Kapaa, Kauai, HI - USGS-16071500
+Waiahi Str US Upper Powerhouse, Kauai, HI - USGS-16057900
+SF Wailua River nr Lihue, Kauai, HI - USGS-16060000
+Waimea River near Waimea, Kauai, HI - USGS-16031000
+Hanapepe Riv blw Manuahi Str nr Eleele, Kauai, HI - USGS-16049000
+Right Branch Lawai Stream nr Umauma Rd, Kauai, HI - USGS-16052350
+Weoweopilau Stream at Highway 50 bridge, Kauai, HI - USGS-16054300
+# MOLOKAI 7
+Waihanau Stream nr Kalaupapa, Molokai, HI - USGS-16409000
+Waikolu Str blw pipe nr Kalaupapa, Molokai, HI - USGS-16408000
+EF Kawela Gulch nr Kamalo, Molokai, HI - USGS-16415000
+Kaunakakai Gulch at altitude 75 feet, Molokai, HI - USGS-16414200
+Kawela Gulch near Moku, Molokai, HI - USGS-16415600
+Halawa Stream near Halawa, Molokai, HI - USGS-16400000
+LB Honoulimaloo Str US diversion, Molokai, HI - USGS-16417800
+# MAUI 20
+Honokahua Stream at Honoapiilani Highway, Maui, HI - USGS-16623300
+Honokohau Stream near Honokohau, Maui, HI - USGS-16620000
+Kahakuloa Stream near Honokohau, Maui, HI - USGS-16618000
+Waihee Rv abv Waihee Dtch intk nr Waihee, Maui, HI - USGS-16614000
+S Waiehu Str US of ditch at alt. 315 ft, Maui, HI - USGS-16611500
+Wailuku River at Iao Valley Road, Maui, HI - USGS-16605500
+Wailuku River at Kepaniwai Park, Maui, HI - USGS-16604500
+Waikapu Str US of S Waikapu Dt intake, Maui, HI - USGS-16647900
+Kauaula Stream US of ditch diversion, Maui, HI - USGS-16641000
+Kahoma Stream at Lahaina, Maui, HI - USGS-16638500
+Ukumehame Gulch nr Olowalu, Maui, HI - USGS-16647000
+Honopou Stream near Huelo, Maui, HI - USGS-16587000
+Nailiilihaele Stream near Huelo, Maui, HI - USGS-16570000
+Waikamoi Str abv Kula PL intake nr Olinda, Maui,HI - USGS-16552800
+Haipuaena Stream abv Spreckels Ditch, Maui, HI - USGS-16536000
+Honomanu Stream near Hana Hwy, Maui, HI - USGS-16527500
+Honomanu Stream near Keanae, Maui, HI - USGS-16527000
+West Wailuaiki Stream near Keanae, Maui, HI - USGS-16518000
+Hanawi Stream near Nahiku, Maui, HI - USGS-16508000
+Oheo Gulch at dam near Kipahulu, Maui, HI - USGS-16501200
+# BIG ISLAND 13
+Awini Puali Gulch US of Kohala Ditch, Big Island, HI - USGS-16751500
+Kawainui Stream nr Kamuela, Big Island, HI - USGS-16720000
+Alakahi Stream near Kamuela, Big Island, HI - USGS-16725000
+Kohakohau Stream above intake, nr Kamuela, HI - USGS-16756100
+Waikoloa Stream nr Kamuela, Big Island, HI - USGS-16757000
+Waikoloa Str at Marine Dam nr Kamuela, Big Island, HI - USGS-16758000
+Waiaha Stream at Holualoa, Big Island, HI - USGS-16759600
+Manowaiopae Stream near Spencer Road, Big Island, HI - USGS-16717815
+Hakalau Stream nr alt 1300 ft, Big Island, HI - USGS-16717700
+Honolii Stream nr Papaikou, Big Island, HI - USGS-16717000
+Wailuku River nr Kaumana, Big Island, HI - USGS-16701800
+Wailuku River at Piihonua, Big Island, HI - USGS-16704000
+Paauau Gulch at Pahala, Big Island, HI - USGS-16770500
+# OAHU
+Kaukonahua Stream blw Wahiawa Reservoir, Oahu, HI - USGS-16210200
+Wahiawa Ditch at Wahiawa, Oahu, HI - USGS-16210100
+Kamananui Str at Maunawai, Oahu, HI - USGS-16330000
+Kamananui Str at Pupukea Mil Rd, Oahu, HI - USGS-16325000
+Kaukonahua Str at Waialua, Oahu, HI - USGS-16210500
+Kemoo 5 Reservoir, Oahu, HI - USGS-213320158061401
+Helemano 6 Reservoir, Oahu, HI - USGS-213308158035601
+Opaeula Str nr Wahiawa, Oahu, HI - USGS-16345000
+Upper Helemano Reservoir near Wahiawa, Oahu, HI - USGS-213133158014201
+Wahiawa Reservoir at Spillway at Wahiawa, Oahu, HI - USGS-16210000
+Waikele Str at Wheeler Field, Oahu, HI - USGS-16212601
+SF Kaukonahua Str at E pump nr Wahiawa, Oahu, HI - USGS-16208000
+Ku Tree Reservoir near Wahiawa, Oahu, HI - USGS-16208400
+Koolau Reservoir near Wahiawa, Oahu, HI - USGS-16206600
+NF Kaukonahua Str abv RB nr Wahiawa, Oahu, HI - USGS-16200000
+Makaha Str nr Makaha, Oahu, HI - USGS-16211600
+Kaupuni Str at alt 374 ft nr Waianae, Oahu, HI - USGS-16211800
+Kaluanui Stream nr Punaluu, Oahu, HI - USGS-16304200
+Punaluu Str abv Punaluu Ditch Intake, Oahu, HI - USGS-16301050
+Kahana Str at alt 30 ft nr Kahana, Oahu, HI - USGS-16296500
+Waikane Str at alt 75 ft at Waikane, Oahu, HI - USGS-16294900
+Waiahole Stream above Kamehameha Hwy, Oahu, HI - USGS-16294100
+Honouliuli Str at H-1 Freeway nr Waipahu, Oahu, HI - USGS-16212490
+Waikele Str at Waipahu, Oahu, HI - USGS-16213000
+Waihee Str nr Kahaluu, Oahu, HI - USGS-16284200
+Kahaluu Str nr Ahuimanu, Oahu, HI - USGS-16283200
+Heeia Stream at Haiku Plantations Dr., Oahu, HI - USGS-16279200
+Heeia Stream at Haiku Valley nr Kaneohe, Oahu, HI - USGS-16275000
+Kaneohe Str blw Kamehameha Hwy, Oahu, HI - USGS-16274100
+Kawa Str at Kaneohe, Oahu, HI - USGS-16265000
+Moanalua Stream nr Kaneohe, Oahu, HI - USGS-16227500
+Kalihi Str nr Honolulu, Oahu, HI - USGS-16229000
+N. Halawa Str nr Honolulu, Oahu, HI - USGS-16226200
+South Halawa Stream nr H-3 Freeway, Oahu, HI - USGS-16226700
+N. Halawa Str nr Quar. Stn. at Halawa, Oahu, HI - USGS-16226400
+Kawainui Marsh nr levee sta 15+00, Oahu, HI - USGS-16264600
+Makawao Str nr Kailua, Oahu, HI - USGS-16254000
+Waimanalo Str at Waimanalo, Oahu, HI - USGS-16249000
+Waiakeakua Str at Honolulu, Oahu, HI - USGS-16240500
+Waihi Stream at Honolulu, Oahu, HI - USGS-16238500
+Manoa Stream at Woodlawn Drive, Oahu, HI - USGS-16241600
+Pukele Stream near Honolulu, Oahu, HI - USGS-16244000
+Makiki Stream at King St. bridge, Oahu, HI - USGS-16238000
+Manoa-Palolo Drainage Canal at Moiliili, Oahu, HI - USGS-16247100
