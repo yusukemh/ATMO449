@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "/home/yusukemh/github/ATMO449/term_project/data_preparation/./rearrange_hourly_ERA5.py", line 50, in <module>
+    main()
+  File "/home/yusukemh/github/ATMO449/term_project/data_preparation/./rearrange_hourly_ERA5.py", line 47, in main
+    process_year(year)
+  File "/home/yusukemh/github/ATMO449/term_project/data_preparation/./rearrange_hourly_ERA5.py", line 42, in process_year
+    root[var][idx, :, :] = sub[var].values
+    ~~~~~~~~~^^^^^^^^^^^
+  File "src/netCDF4/_netCDF4.pyx", line 5445, in netCDF4._netCDF4.Variable.__setitem__
+  File "/home/yusukemh/anaconda3/envs/sandbox/lib/python3.11/site-packages/netCDF4/utils.py", line 259, in _StartCountStride
+    raise IndexError(msg)
+IndexError: integer index exceeds dimension size
